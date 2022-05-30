@@ -28,6 +28,7 @@ time, mark, audio, video {
 
 body {
 	line-height: 1;
+	background: black;
 }
 ol, ul {
 	list-style: none;

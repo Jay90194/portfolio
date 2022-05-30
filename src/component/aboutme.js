@@ -3,7 +3,7 @@ import * as React from 'react'
 export default function Aboutme () {
     return (
         <>
-<div className='w-auto h-auto bg-black'>
+<div className='w-auto mt-20 h-auto bg-black'>
 <div className='w-auto '>
 <h2 className=' text-center text-3xl text-lime-400'>[ ABOUT ME ]</h2>
 <p className='text-center text-base text-white m-4 p-4 text-justify'>
