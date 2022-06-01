@@ -10,9 +10,6 @@ export default function () {
     <>
     <div className=''>
     <Hero/>
-    <Aboutme/>
-    <Timeline/>
-    <Contact/>
     </div>
    
     </>
