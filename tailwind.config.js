@@ -3,7 +3,10 @@ module.exports = {
   theme: {
     extend: {
       spacing: {
-        '128': '50rem',
+        '128': '65rem',
+      },
+      backgroundImage: {
+        'Welcome': "url('/images/Welcome.svg')",
       }
     },
   },
