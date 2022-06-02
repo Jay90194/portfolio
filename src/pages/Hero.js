@@ -6,16 +6,8 @@ export default function Hero () {
     return (
         <>
      <div className='w-auto m-auto bg-black lg:w-128'>
-     {/* <StaticImage
-    //      
-        src="../images/Welcome1.png"
-        // width={1000}
-        height= {500}
-        layout="fullWidth"
-        quality={100}
-     /> */}
     <StaticImage
-        src='../images/Full.png'
+        src='../images/Portfolio.png'
         quality={100}
     />
      
